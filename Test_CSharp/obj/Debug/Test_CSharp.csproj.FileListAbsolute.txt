@@ -1,0 +1,6 @@
+c:\users\pedram\documents\visual studio 2017\Projects\Test_CSharp\Test_CSharp\bin\Debug\Test_CSharp.exe.config
+c:\users\pedram\documents\visual studio 2017\Projects\Test_CSharp\Test_CSharp\bin\Debug\Test_CSharp.exe
+c:\users\pedram\documents\visual studio 2017\Projects\Test_CSharp\Test_CSharp\bin\Debug\Test_CSharp.pdb
+c:\users\pedram\documents\visual studio 2017\Projects\Test_CSharp\Test_CSharp\obj\Debug\Test_CSharp.csprojResolveAssemblyReference.cache
+c:\users\pedram\documents\visual studio 2017\Projects\Test_CSharp\Test_CSharp\obj\Debug\Test_CSharp.exe
+c:\users\pedram\documents\visual studio 2017\Projects\Test_CSharp\Test_CSharp\obj\Debug\Test_CSharp.pdb
